@@ -34,13 +34,8 @@
 
 | Main Dashboard | 
 
-![Main Dashboard](https://github.com/Ahmed-Issa-hub/Marketing-Campaign-Analysis/blob/main/Screeshots/Main%20Dashboard.png?raw=true)
+![Main Dashboard](https://github.com/Ahmed-Issa-hub/Sales-Dashboard-Power-bi/blob/main/Dashboard.png?raw=true)
 
-| Channel Performance | 
-
-| ![conversion by channel](https://github.com/Ahmed-Issa-hub/Marketing-Campaign-Analysis/blob/main/Screeshots/conversion%20by%20channel.png?raw=true) | 
-
-| ![conversation and spent over time](https://github.com/Ahmed-Issa-hub/Marketing-Campaign-Analysis/blob/main/Screeshots/conversation%20and%20spent%20over%20time.png?raw=true) | 
 
 ---
 
@@ -52,41 +47,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Key Features
-
-- Power Query: Clean, transform, and prepare data efficiently using Power Query's intuitive interface.
-
-- Power BI Visualizations: Design interactive and dynamic dashboard to present data insights effectively.
-
-- End-to-End Workflow: Demonstrates a seamless process from data preparation to visualization.
-
-
-## Dashboard
-
-  ![image alt](https://github.com/Ahmed-Issa-hub/Sales-Dashboard-Power-bi/blob/main/Dashboard.png?raw=true)
-
-## 👤 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/ahmed-eissa-837691a1/) 

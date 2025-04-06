@@ -1,7 +1,7 @@
 ### 📌 Project Title & Overview
 
-    📊 This project leverages Power Query for data preparation and cleaning, and Power BI for creating interactive visualizations. The focus is on transforming raw,
-        unstructured data into a clean and analysis-ready format, followed by building insightful dashboards to uncover trends and patterns.
+    📊 This project leverages Power Query for data preparation and cleaning, and Power BI for creating interactive visualizations.
+The focus is on transforming raw,unstructured data into a clean and analysis-ready format, followed by building insightful dashboards to uncover trends and patterns.
 
 ### 🎯 Objectives
 

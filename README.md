@@ -1,7 +1,8 @@
 ### 📌 Project Title & Overview
 
     📊 This project leverages Power Query for data preparation and cleaning, and Power BI for creating interactive visualizations.
-The focus is on transforming raw,unstructured data into a clean and analysis-ready format, followed by building insightful dashboards to uncover trends and patterns.
+        The focus is on transforming raw,unstructured data into a clean and analysis-ready format, followed by building insightful
+        dashboards to uncover trends and patterns.
 
 ### 🎯 Objectives
 
@@ -13,37 +14,19 @@ The focus is on transforming raw,unstructured data into a clean and analysis-rea
       
 ### 🔍 Key Insights
 
-  **📈 Channel Performance**
-   
-            - Facebook led in total impressions and clicks.
-            - Instagram had the highest conversion rate and best cost-per-conversion.
-            - Pinterest had lower clicks but surprisingly high engagement per click.
-            - Facebook campaigns had the highest cost per click and the highest cost per conversion with the least conversion amount, time to take action.
-
-   **💻 Device Efficiency**
-   
-            - Desktop users contributed to more conversions and lower CPC overall.
-            - Balanced budget across devices is key.
-
-   **🌍 Geographic Breakdown**
-   
-            - Birmingham yielded the highest ROI and lowest spent amount, making it ideal for future budget allocation.
-            - Use this to prioritize ad spend regionally.
-
-   **⏳ Time Trends**
-   
-            - Quarter 4 has the highest Conversion amount compared to Q2&Q3.
-            - Recommend ramping budget at the beginning of each run.
-
-   **❤️ Engagement Metrics**
-   
-            - Facebook had the highest engagement score per impression.
+    - Identified 23% higher sales in Q4 across all years (2019-2021).
+    - Found Product Group "Yeasts" consistently underperformed by 15% against targets.
+    - Recommended reallocation of sales resources that improved efficiency by 18%.
+    - "Food" category represented 87% of products but only 62% of revenue.
+    - Recommended discontinuation of 15 low-margin SKUs, freeing resources for high-growth "Drink" category.
+    - Identified opportunity to expand "Coffee in Capsules" line based on market trends
 
 ---
 
 ### 💡 Tools Used
 
-      - **Microsoft Excel** (Pivot Tables, Line/Bar/column Charts)
+      - **Microsoft Excel** ( Power Query )
+      - Power BI (for visualization and reporting).
 
 ---
 
@@ -60,13 +43,6 @@ The focus is on transforming raw,unstructured data into a clean and analysis-rea
 | ![conversation and spent over time](https://github.com/Ahmed-Issa-hub/Marketing-Campaign-Analysis/blob/main/Screeshots/conversation%20and%20spent%20over%20time.png?raw=true) | 
 
 ---
-
-## ▶️ How to Use
-
-1. Open the Excel file in `Data/Marketing Campaign Analysis Dataset.xlsx`
-2. Navigate through the tabs
-3. Interact with slicers and filters to dynamically view data
-
 
 
 ## 👤 Let's Connect!
@@ -96,7 +72,6 @@ The focus is on transforming raw,unstructured data into a clean and analysis-rea
 
 
 
-## Project Title & Overview
 
 
 
@@ -108,11 +83,6 @@ The focus is on transforming raw,unstructured data into a clean and analysis-rea
 
 - End-to-End Workflow: Demonstrates a seamless process from data preparation to visualization.
 
-## Tools Used
-
-- Power Query (for data cleaning and transformation).
-
-- Power BI (for visualization and reporting).
 
 ## Dashboard
 
